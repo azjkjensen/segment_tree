@@ -1,5 +1,4 @@
-''' You will need the following import if using python2 '''
-from __future__ import absolute_import
+''' python -m unittest segmenttree.tests.module_tests'''
 
 from ..segment_tree.module import *
 import unittest
