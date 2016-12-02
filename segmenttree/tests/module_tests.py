@@ -18,3 +18,11 @@ class SegmentTree_Test(unittest.TestCase):
 
         segSched = SegmentTreeScheduler(10)
         self.assertEqual(hasattr(segSched, "size"), True)
+
+    # def test_single_element(self):
+
+    # def test_odd_number_of_leaves(self):
+
+    # def test_even_number_of_leaves(self):
+
+    # def test_
